@@ -14,11 +14,11 @@ To build the project, you need to install the following dependencies:
 
 Before starting the build process, you need to clone the repository to your local computer
 
-``` git clone https://github.com/andreu5547/FLaTOA_hw2.git ```
+``` git clone https://github.com/andreu5547/FLaTOA_hw3.git ```
 
 ## Building the Project with CMake
 1. Navigate to the root directory of the project:
-```cd FLaTOA_hw2```
+```cd FLaTOA_hw3```
 2. Create a "build" directory:
 ```mkdir build```
 3. Navigate to the "build" directory:
